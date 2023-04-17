@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'decouple',
     'rest_framework',
-    'user_control'
+    'user_control',
+    'app_control'
 ]
 
 MIDDLEWARE = [
